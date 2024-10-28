@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://qidxowc.github.io/hGH/hGH.txt
